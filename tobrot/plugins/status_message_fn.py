@@ -250,5 +250,5 @@ async def aexec(code, client, message):
 '''
 async def upload_log_file(client, message):
     await message.reply_document(
-        "Torrentleech-Gdrive.txt"
+        "Arata-Leech.txt"
     )
